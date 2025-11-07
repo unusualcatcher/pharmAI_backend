@@ -40,7 +40,7 @@ Follow these steps to get the backend running locally.
 
 ### 1. Download the Project
 
-Download the project files and unzip them to your chosen folder.
+Download the project ZIP file by clicking on the ```Code``` button and unzip them to your chosen folder.
 
 ### 2. Create a Virtual Environment
 
@@ -57,7 +57,7 @@ venv\Scripts\Activate.ps1
 ```
 ### 3. Install Dependencies
 
-With your virtual environment active, install the required packages:
+With your virtual environment active, install the required packages after opening the root directory (the one containing the manage.py file) in your terminal:
 ```
 pip install -r requirements.txt
 ```
