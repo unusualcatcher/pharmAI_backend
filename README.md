@@ -83,7 +83,7 @@ MAX_TOKENS=2000
 GEMINI_API_KEY=<your-api-key>
 GEMINI_MODEL=<model-name>
 ```
-# Important: The OPENAI_API_KEY and SERPAPI_API_KEY are required for the AI agents to function.
+#### Important: The OPENAI_API_KEY and SERPAPI_API_KEY are required for the AI agents to function.
 
 ### 5. Set Up the Database
 Run the initial database migrations:
